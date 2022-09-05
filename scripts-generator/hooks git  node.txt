@@ -1,0 +1,1 @@
+https://itnext.io/writing-custom-git-hooks-with-nodejs-2d53732865aa
