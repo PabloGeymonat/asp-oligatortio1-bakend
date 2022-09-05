@@ -1,1 +1,2 @@
-let coco = "AURORA";
+if (a == "AAA") {
+}
